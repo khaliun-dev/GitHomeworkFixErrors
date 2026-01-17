@@ -34,7 +34,7 @@ Forking lets me make a copy of the original repo, so I could work on it independ
 ## 5. What happens when you clone a repository?
 
 
-Cloning lets me create a local copy of a repo, on my PC
+Cloning lets me create a local copy of a repo, on my PC.
 
 
 
@@ -42,6 +42,3 @@ Cloning lets me create a local copy of a repo, on my PC
 
 
 PR is me asking for permission to merge what i have been working on independently to the main code.
-
-
-
